@@ -1,6 +1,6 @@
 
 CW20 Fungible Tokens:
-
+This is multisig and anchor for the terra chain 
 * [`cw20-base`](./contracts/cw20-base) a straightforward, but complete
 implementation of the cw20 spec along with all extensions. Can be deployed
 as-is, or imported by other contracts.

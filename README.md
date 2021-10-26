@@ -5,6 +5,9 @@ This is multisig and anchor for the terra chain
 implementation of the cw20 spec along with all extensions. Can be deployed
 as-is, or imported by other contracts.
 
+# version
+0.9.0
+
 ## Compiling
 
 To compile all the contracts, run the following in the repo root:
